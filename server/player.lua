@@ -584,7 +584,7 @@ local playertables = { -- Add tables as needed
     { table = 'bank_accounts' },
     { table = 'playerskins' },
     { table = 'player_outfits' },
-    { table = 'player_vehicles' }
+    { table = 'player_horses' }
 }
 
 exports('DeleteCharacter', function(source, citizenid)
